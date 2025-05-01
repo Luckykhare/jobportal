@@ -15,7 +15,7 @@ A full-featured Job Portal web application that allows job seekers to find and a
   npm install
 
 #  start the development server
-  npm start
+  npm run dev
 
 #  Move into the backend project folder
   cd backend 
@@ -27,6 +27,12 @@ A full-featured Job Portal web application that allows job seekers to find and a
   npm install react-router-dom
   npm install react-router
   npm install bcyptjs
+
+  
+# start the server
+ npm index.js
+ 
+
   
 
 ## 🌐 Live Demo
@@ -77,33 +83,5 @@ A full-featured Job Portal web application that allows job seekers to find and a
 
 ---
 
-# clone the repository
-   git clone https://github.com/Luckykhare/jobportal
-   create frontend folder
-   create backend folder
 
- # MOove into the project folder
-   cd frontend
-
-# install dependencies
-  npm install
-
-#  start the development server
-  npm start
-
-#  Move into the backend project folder
-  cd backend 
-
-
-# install package
-  npm install express
-  npm install jwt
-  npm install react-router-dom
-  npm install react-router
-  npm install bcyptjs
-  
-  
-# start the server
- npm index.js
- 
 
